@@ -1,5 +1,6 @@
 package Hello
 
 func Hello() string {
-	return "Hello World!"
+	value := "Hello World!"
+	return value
 }
